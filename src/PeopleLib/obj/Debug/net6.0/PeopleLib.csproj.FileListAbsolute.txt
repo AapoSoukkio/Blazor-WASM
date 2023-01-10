@@ -1,0 +1,24 @@
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\bin\Debug\net6.0\PeopleLib.deps.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\bin\Debug\net6.0\PeopleLib.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\bin\Debug\net6.0\PeopleLib.pdb
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.AssemblyReference.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfoInputs.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfo.cs
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.CoreCompileInputs.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\refint\PeopleLib.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\PeopleLib.pdb
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleLib\obj\Debug\net6.0\ref\PeopleLib.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\bin\Debug\net6.0\PeopleLib.deps.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\bin\Debug\net6.0\PeopleLib.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\bin\Debug\net6.0\PeopleLib.pdb
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.AssemblyReference.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfoInputs.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.AssemblyInfo.cs
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.csproj.CoreCompileInputs.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\refint\PeopleLib.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\PeopleLib.pdb
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleLib\obj\Debug\net6.0\ref\PeopleLib.dll

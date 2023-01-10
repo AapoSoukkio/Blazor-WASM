@@ -1,0 +1,47 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<PageTitle>People</PageTitle>
+
+<h1>Hello, User!</h1>
+
+Welcome to People app.
+
+@if (null == people)
+{
+    <p>Loading people...</p>
+}
+else
+{
+    <table>
+        <thead>
+            <tr>
+                <td>First name</td>
+                <td>Last name</td>
+                <td>Title</td>
+                <td></td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in people)
+            {
+                <tr>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.Title</td>
+                    <td><a href=@($"/person/details/{item.Id}")>details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private Person[]? people;
+
+    protected override async Task OnInitializedAsync()
+    {
+        people = await Http.GetFromJsonAsync<Person[]>("people");
+    }
+}

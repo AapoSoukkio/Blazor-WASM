@@ -1,0 +1,108 @@
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\appsettings.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleApi.exe
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleApi.deps.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleApi.runtimeconfig.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleApi.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleApi.pdb
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleLib.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\bin\Debug\net6.0\PeopleLib.pdb
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.AssemblyReference.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.AssemblyInfoInputs.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.AssemblyInfo.cs
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.CoreCompileInputs.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\scopedcss\bundle\PeopleApi.styles.css
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.CopyComplete
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\refint\PeopleApi.dll
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.pdb
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\PeopleApi.genruntimeconfig.cache
+C:\Teku\Opetus\.NET kurssit\Toteutus\Syksy 2022 SCA3\Ratkaisut\Task-07\src\PeopleApi\obj\Debug\net6.0\ref\PeopleApi.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\appsettings.Development.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\appsettings.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleApi.exe
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleApi.deps.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleApi.runtimeconfig.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleApi.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleApi.pdb
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleLib.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\bin\Debug\net6.0\PeopleLib.pdb
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.AssemblyReference.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.AssemblyInfoInputs.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.AssemblyInfo.cs
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.CoreCompileInputs.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.MvcApplicationPartsAssemblyInfo.cs
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\scopedcss\bundle\PeopleApi.styles.css
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.csproj.CopyComplete
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\refint\PeopleApi.dll
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.pdb
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\PeopleApi.genruntimeconfig.cache
+C:\GitHub_repot\.Net Blazor WASM\src\PeopleApi\obj\Debug\net6.0\ref\PeopleApi.dll

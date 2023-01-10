@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f8bcbea-b8fd-4015-bc83-73eaa3bf1ea8": {
+      "ProjectGuid": "7f8bcbea-b8fd-4015-bc83-73eaa3bf1ea8",
+      "DisplayName": "PeopleApi",
+      "ColorIndex": 0
+    },
+    "3561b7c9-97ca-4687-bcc2-8fd4ec785235": {
+      "ProjectGuid": "3561b7c9-97ca-4687-bcc2-8fd4ec785235",
+      "DisplayName": "BlazorPeople",
+      "ColorIndex": 1
+    },
+    "071121b6-0066-466f-96a9-33e2c51eb8dd": {
+      "ProjectGuid": "071121b6-0066-466f-96a9-33e2c51eb8dd",
+      "DisplayName": "PeopleLib",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

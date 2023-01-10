@@ -1,0 +1,78 @@
+﻿@page "/contactinfo"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ILogger<ContactInfoPage> Logger
+
+<PageTitle>Join an address to a person</PageTitle>
+
+@if (null == addresses || null == people)
+{
+    <p>Loading people and addresses...</p>
+}
+else
+{
+    <EditForm Model="@contactInfo" OnValidSubmit="@HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <p>
+            <label>
+                Select an address:
+                <InputSelect @bind-Value="contactInfo.AddressId" id="foraddress">
+                    @foreach (var item in addresses)
+                    {
+                        <option value="@item.Id">@($"{item.StreetAddress}, {item.PostalNumber} {item.PostalAddress}")</option>
+                    }
+                </InputSelect>
+            </label>
+        </p>
+        <p>
+            <label>
+                Select a person:
+                <InputSelect @bind-Value="contactInfo.PersonId" id="forperson">
+                    @foreach (var item in people)
+                    {
+                        <option value="@item.Id">@($"{item.FirstName} {item.LastName}, {item.Title}")</option>
+                    }
+                </InputSelect>
+            </label>
+        </p>
+        <p>
+            <label>
+                Info text:
+                <InputTextArea @bind-Value="contactInfo.Info" />
+            </label>
+        </p>
+        <button type="submit">Join</button>
+    </EditForm>
+}
+
+@code {
+
+    private ContactInfo contactInfo = new ContactInfo();
+    private Address[]? addresses;
+    private Person[]? people;
+
+    protected override async Task OnInitializedAsync()
+    {
+        people = await Http.GetFromJsonAsync<Person[]>("people");
+        addresses = await Http.GetFromJsonAsync<Address[]>("address");
+    }
+
+
+    private async Task HandleValidSubmit()
+    {
+        Logger.LogInformation("HandleValidSubmit called");
+
+        // Process the valid form
+        var result = await Http.PostAsJsonAsync($"contactinfo", contactInfo);
+        if (result.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo($"/");
+        }
+        else
+        {
+            Logger.LogError($"Failed to POST a new contact info. Details: {result.ReasonPhrase}");
+        }
+    }
+}

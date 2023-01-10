@@ -1,0 +1,67 @@
+﻿@page "/person/edit/{id:int}"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ILogger<PersonEdit> Logger
+
+<PageTitle>Person edit</PageTitle>
+
+@if (null == person)
+{
+    <p>Loading person...</p>
+}
+else
+{
+    <EditForm Model="@person" OnValidSubmit="@HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <p>
+            <label>
+                First name:
+                <InputText @bind-Value="person.FirstName" />
+            </label>
+        </p>
+        <p>
+            <label>
+                Last name:
+                <InputText @bind-Value="person.LastName" />
+            </label>
+        </p>
+        <p>
+            <label>
+                Title:
+                <InputText @bind-Value="person.Title" />
+            </label>
+        </p>
+        <button type="submit">Save changes</button>
+    </EditForm>
+}
+
+@code {
+
+    private Person? person;
+
+    [Parameter]
+    public int Id { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        var people = await Http.GetFromJsonAsync<Person[]>("people");
+        person = people.FirstOrDefault(p => p.Id == Id);
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        Logger.LogInformation("HandleValidSubmit called");
+
+        // Process the valid form
+        var result = await Http.PutAsJsonAsync($"people/{Id}", person);
+        if (result.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo($"/person/details/{Id}");
+        }
+        else
+        {
+            Logger.LogError($"Failed to PUT person. Details: {result.ReasonPhrase}");
+        }
+    }
+}

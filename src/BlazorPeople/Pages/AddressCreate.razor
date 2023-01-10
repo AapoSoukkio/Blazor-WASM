@@ -1,0 +1,53 @@
+﻿@page "/address/create"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+@inject ILogger<AddressCreate> Logger
+
+<PageTitle>Add new address</PageTitle>
+
+<EditForm Model="@address" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <p>
+        <label>
+            Street address:
+            <InputText @bind-Value="address.StreetAddress" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Postal number:
+            <InputNumber @bind-Value="address.PostalNumber" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Postal address:
+            <InputText @bind-Value="address.PostalAddress" />
+        </label>
+    </p>
+    <button type="submit">Add new</button>
+</EditForm>
+
+@code {
+
+    private Address address = new Address();
+
+    private async Task HandleValidSubmit()
+    {
+        Logger.LogInformation("HandleValidSubmit called");
+
+        // Process the valid form
+        var result = await Http.PostAsJsonAsync($"address", address);
+        if (result.IsSuccessStatusCode)
+        {
+            NavigationManager.NavigateTo($"/");
+        }
+        else
+        {
+            Logger.LogError($"Failed to POST a new address. Details: {result.ReasonPhrase}");
+        }
+    }
+}
+

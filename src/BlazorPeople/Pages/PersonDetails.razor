@@ -1,0 +1,79 @@
+﻿@page "/person/details/{id:int}"
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<PageTitle>Person details</PageTitle>
+
+@if (null == person)
+{
+    <p>Loading person...</p>
+}
+else
+{
+    <span>@person.FirstName</span> <span>@person.LastName</span>
+    <br />
+    @person.Title
+
+    <p>
+        <a href="@($"/person/edit/{Id}")">Edit person details</a>
+    </p>
+
+    <p>
+        <h2>Addresses</h2>
+        @if (null != addresses)
+        {
+            <table>
+                <thead>
+                    <tr>
+                        <td>Street address</td>
+                        <td>Postal number</td>
+                        <td>Postal address</td>
+                        <td>Info</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in addresses)
+                    {
+                        <tr>
+                            <td>@item.StreetAddress</td>
+                            <td>@item.PostalNumber</td>
+                            <td>@item.PostalAddress</td>
+                            @if (null != contactInfos)
+                            {
+                                <td>@contactInfos.FirstOrDefault(c => c.AddressId == item.Id)?.Info</td>
+                            }
+                            else
+                            {
+                                <td></td>
+                            }
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        }
+    </p>
+}
+
+@code {
+
+    private Person? person;
+    private Address[]? addresses;
+    private ContactInfo[]? contactInfos;
+
+    [Parameter]
+    public int Id { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        var people = await Http.GetFromJsonAsync<Person[]>("people");
+        person = people.FirstOrDefault(p => p.Id == Id);
+
+        // get contacts
+        var contacts = await Http.GetFromJsonAsync<ContactInfo[]>("contactinfo");
+        contactInfos = contacts.Where(c => c.PersonId == Id).ToArray();
+
+        // get addresses
+        var allAddresses = await Http.GetFromJsonAsync<Address[]>("address");
+        addresses = allAddresses.Where(a => contactInfos.Select(c => c.AddressId).Contains(a.Id)).ToArray();
+    }
+}
